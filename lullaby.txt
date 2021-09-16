@@ -1,0 +1,4 @@
+Add Hickory Dickory Dock to the repo.
+wget https://www.acquia.com/sites/default/files/blog/hickory-dickory-dock.txt...
+add hickory-dickory-dock.txt
+git commit -m 'Added hickory-dickory-dock.txt.'
